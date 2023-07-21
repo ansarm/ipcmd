@@ -1,1 +1,1 @@
-ipcmd is a driverless commans line sniffer for Windows.
+ipcmd is a driverless command line sniffer for Windows.
